@@ -1,0 +1,2 @@
+# GestorGo
+Proyecto Computación Móvil
